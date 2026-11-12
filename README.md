@@ -26,7 +26,7 @@
 | [**GestureNet**](https://github.com/kavalihardhik2-rgb/GestureNet-ML-Lab-Project-) | A CNN that recognises 10 hand gestures and maps each to a computer command for touch-free control. Reaches **99.68% test accuracy**, against 87.42% for a HOG + SVM baseline. Includes a live webcam demo. | Python, Keras, OpenCV |
 | [**Bridge Crack Severity**](https://github.com/kavalihardhik2-rgb/Bridge-Crack-Severity-Mini-Project-) | Extends a self-supervised crack classifier to also estimate how severe a crack is, where it is and which pixels it covers, using a frozen DINOv2 encoder, YOLO11n and a U-Net trained on weak labels. | Python, PyTorch, YOLO, U-Net |
 | [**Digital Signature & Authentication**](https://github.com/kavalihardhik2-rgb/Computer-Network-Course_Project-) | A client and server over real TCP sockets with RSA + SHA-256 signatures and challenge-response login, plus a man-in-the-middle attacker that tries tampering, replay and impersonation. | Python (standard library only) |
-| [**DSA Quest**](https://github.com/kavalihardhik2-rgb/DSA-QUEST) | A browser game for learning data structures and algorithms. [Play it here](https://dsa-quest-three.vercel.app). | HTML, CSS, JavaScript |
+| [**DSA Quest**](https://github.com/kavalihardhik2-rgb/DSA-QUEST) | A browser game for learning data structures and algorithms. [Play it here](https://dsa-quest-1.vercel.app/). | HTML, CSS, JavaScript |
 | [**Sudoku**](https://github.com/kavalihardhik2-rgb/Sudoku) | A playable Sudoku built for the browser. | HTML, CSS, JavaScript |
 
 ### Tech I use
