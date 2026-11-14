@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34761988/README.md)
-<h1 align="center">Hi, I'm Hardhik Kavali 👋</h1>
+<h1 align="center">Hi, I'm Hardhik Kavali </h1>
 
 <p align="center">
   Artificial Intelligence & Machine Learning  student building machine learning projects, with a side of networking and web development.
@@ -14,10 +14,10 @@
 
 ### About me
 
-- 🧠 Most of my work is in **computer vision and applied ML**: image classification, detection and segmentation
-- 🔐 I like building things from first principles, such as RSA signatures written with only the Python standard library
-- 🧩 I practise **data structures and algorithms** on LeetCode, and built a game to make learning them more fun
-- 🌱 Currently getting deeper into deep learning and end-to-end ML pipelines
+- Most of my work is in **computer vision and applied ML**: image classification, detection and segmentation
+- I like building things from first principles, such as RSA signatures written with only the Python standard library
+- I practise **data structures and algorithms** on LeetCode, and built a game to make learning them more fun
+- Currently getting deeper into deep learning and end-to-end ML pipelines
 
 ### Featured projects
 
